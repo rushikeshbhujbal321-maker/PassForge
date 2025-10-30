@@ -27,5 +27,5 @@ Yet millions still use *“password123”*, *their name + symbol*, or *birthdate
 
 ---
 
-## 🧩 Example Run
+
 
